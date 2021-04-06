@@ -34,8 +34,8 @@
             bindings = <
             &hm ESC Q      &kp W      &kp E       &kp R       &kp T  &kp Y  &kp U       &kp I       &kp O      &kp P
             &hm TAB A      &kp S      &kp D       &kp F       &kp G  &kp H  &kp J       &kp K   &kp L &hm SQT SEMICOLON
-            &hm LSHFT Z                 &kp X       &kp C       &kp V  &kp B  &kp N       &kp M       &kp COMMA  &kp DOT
-            &kp RCTRL  &kp LGUI   &kp LALT       &lt NUM_SYM RET    &lt NAV SPACE   &kp LSHFT   &kp SQT    &hm QMARK SLASH
+            &hm LSHFT Z                 &kp X       &kp C       &kp V  &kp B  &kp N       &kp M       &kp COMMA  &hm SLASH DOT
+            &kp RCTRL  &kp LGUI   &kp LALT       &lt NUM_SYM RET    &lt NAV SPACE   &kp LSHFT   &kp SQT    &kp QMARK
             >;
         };
         num_sym {
@@ -52,7 +52,7 @@
             &kp F1    &kp F2      &kp F3       &kp F4       &kp F5 &kp F6 &kp F7       &kp F8       &kp F9     &kp BSPC
             &kp EXCLAMATION     &kp AT_SIGN     &kp HASH     &kp DOLLAR      &kp PERCENT &kp CARET &kp AMPERSAND    &kp ASTERISK     &kp LEFT_PARENTHESIS &kp RIGHT_PARENTHESIS
             &kp MINUS       &none      &none       &none &none &none       &none        &none     &none
-            &bootloader &reset      &none         &trans        &trans             &trans       &none     &none
+            &bootloader &reset      &none         &trans        &trans             &trans       &none     &bt BT_CLR
             >;
         };
     };
