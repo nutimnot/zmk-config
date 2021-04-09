@@ -60,7 +60,7 @@
         };
         num_sym {
             bindings = <
-            &kp TILDE     &kp EQUAL     &kp RC(LS(LEFT_BRACKET)) MINUS     &hm RC(LS(RIGHT_BRACKET)) PLUS    &trans  &trans &kp KP_MULTIPLY &kp KP_DIVIDE      &trans &kp BSPC
+            &kp TILDE     &kp EQUAL     &hm RC(LS(LEFT_BRACKET)) MINUS     &hm RC(LS(RIGHT_BRACKET)) PLUS    &trans  &trans &kp KP_MULTIPLY &kp KP_DIVIDE      &trans &kp BSPC
             &kp N1     &kp N2     &kp N3     &kp N4     &kp N5 &kp LEFT_ARROW &kp DOWN_ARROW     &kp UP_ARROW      &kp RIGHT_ARROW    &kp N0
             &kp N6 &kp N7     &kp N8      &kp N9    &kp N0  &none      &none       &none     &none
             &trans &trans    &none         &trans        &kp RET             &trans     &trans    &none
