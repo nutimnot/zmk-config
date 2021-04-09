@@ -41,7 +41,7 @@
         combo_tab {
             timeout-ms = <20>;
             key-positions = <10 31>;
-            bindings = <&kc LA(TAB)>;
+            bindings = <&kp LA(TAB)>;
         };
     };
 };
