@@ -36,7 +36,7 @@
         combo_powerlayer {
             timeout-ms = <20>;
             key-positions = <32 33>;
-            bindings = <&lt POWER>;
+            bindings = <&mo POWER>;
         };
         combo_tab {
             timeout-ms = <20>;
