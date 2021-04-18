@@ -89,7 +89,7 @@
             &kp Q      &kp W      &kp E       &kp R       &kp T  &kp Y  &kp U       &kp I       &kp O      &kp P
             &kp A      &kp S      &kp D       &kp F       &kp G  &kp H  &kp J       &kp K   &kp L &kp SEMICOLON
             &kp TAB                 &kp X       &kp LEFT_ARROW     &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW       &kp M       &kp COMMA  &kp DOT
-            &kp RCTRL  &kp LGUI   &kp LALT       &lt RET    &kp SPACE   &kp LSHFT   &tog GAME    &kp QMARK
+            &kp RCTRL  &kp LGUI   &kp LALT       &kp RET    &kp SPACE   &kp LSHFT   &tog GAME    &kp QMARK
             >;
         };
     };
