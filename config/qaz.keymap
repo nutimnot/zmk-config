@@ -13,7 +13,7 @@
 #define NAV     2
 #define POWER   3
 
-&kscan0 { debounce-period = <90>; };
+&kscan0 { debounce-period = <30>; };
 
 / {
     behaviors {
